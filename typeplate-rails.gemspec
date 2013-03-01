@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.summary     = "Provides Typeplate [http://typeplate.com/] as a Rails engine."
   s.description = "Provides Typeplate [http://typeplate.com/] as a Rails engine."
 
-  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.rdoc"]
+  s.files = Dir["{app,config,db,lib}/**/*"] + ["Rakefile", "README.md"]
   s.test_files = Dir["test/**/*"]
 
   s.add_dependency "rails", "~> 3.2.12"
