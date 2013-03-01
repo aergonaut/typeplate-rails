@@ -22,4 +22,4 @@ And then include it in your stylesheets. I recommend you include it in your `mai
 
 ## Versioning
 
-The version of `typeplate-rails` will stay in sync with the version of Typeplate it provides.
+The version of `typeplate-rails` will stay in sync with the version of Typeplate it provides. The fourth digit indicates patches and updates specific to this gem.
