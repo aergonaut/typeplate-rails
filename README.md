@@ -19,3 +19,7 @@ And then include it in your stylesheets. I recommend you include it in your `mai
 
 @import "typeplate";
 ```
+
+## Versioning
+
+The version of `typeplate-rails` will stay in sync with the version of Typeplate it provides.
