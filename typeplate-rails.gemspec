@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = TypeplateRails::VERSION
   s.authors     = ["Chris Fung @aergonaut"]
   s.email       = ["aergonaut@gmail.com"]
-  s.homepage    = "http://aergonaut.com"
+  s.homepage    = "https://github.com/aergonaut/typeplate-rails"
   s.summary     = "Provides Typeplate [http://typeplate.com/] as a Rails engine."
   s.description = "Provides Typeplate [http://typeplate.com/] as a Rails engine."
 
